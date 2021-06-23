@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+*.pyc
+Random_Surfaces/*
+*.tar
+__pycache__/*
+.ipynb_checkpoints/*
