@@ -1,7 +1,7 @@
 # Gradient-Field-Refinement-GAN
 ## Overview
 
-This project uses Generative Adversarial Networks to resolve a low-resolution gradient field into a high-resolution gradient field. This has been **VERY** helpful in my research. In situations where it is desired to reconstruct a surface from a gradient field, this greatly helps with the accuracy of that reconstruction. Much better than just interpolating where the surface function is not necessarally smooth.
+This project uses Generative Adversarial Networks to resolve a low-resolution gradient field into a high-resolution gradient field. This has been very helpful in my research. In situations where it is desired to reconstruct a surface from a gradient field, this greatly helps with the accuracy of that reconstruction. Much better than just interpolating where the surface function is not necessarally smooth.
 
 The GAN architecture used is based off of the [SRGAN paper](https://arxiv.org/abs/1609.04802).
 
